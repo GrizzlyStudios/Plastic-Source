@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: arms
+  m_Mask: 00000000000000000000000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Cube
+    m_Weight: 1
+  - m_Path: Pivot
+    m_Weight: 1
+  - m_Path: Pivot/Armature
+    m_Weight: 1
+  - m_Path: Pivot/Armature/Mag
+    m_Weight: 1
+  - m_Path: Pivot/Armature/Mag/Mag_end
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:LeftUpLeg
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase/mixamorig:LeftToe_End
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase/mixamorig:LeftToe_End/mixamorig:LeftToe_End_end
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:RightUpLeg
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase/mixamorig:RightToe_End
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase/mixamorig:RightToe_End/mixamorig:RightToe_End_end
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHand_end
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:HeadTop_End
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:HeadTop_End/mixamorig:HeadTop_End_end
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand
+    m_Weight: 1
+  - m_Path: Pivot/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHand_end
+    m_Weight: 1
+  - m_Path: Pivot/Armature/Weapon
+    m_Weight: 1
+  - m_Path: Pivot/Armature/Weapon/Bolt
+    m_Weight: 1
+  - m_Path: Pivot/Armature/Weapon/Bolt/Bolt_end
+    m_Weight: 1
+  - m_Path: Pivot/Armature/Weapon/Grip
+    m_Weight: 1
+  - m_Path: Pivot/Armature/Weapon/Grip/Grip_end
+    m_Weight: 1
+  - m_Path: Pivot/Armature/Weapon/Handle
+    m_Weight: 1
+  - m_Path: Pivot/Armature/Weapon/Handle/Handle_end
+    m_Weight: 1
+  - m_Path: Pivot/Armature/Weapon/Stock
+    m_Weight: 1
+  - m_Path: Pivot/Armature/Weapon/Stock/Stock_end
+    m_Weight: 1
+  - m_Path: Pivot/Armature/Weapon/Trigger
+    m_Weight: 1
+  - m_Path: Pivot/Armature/Weapon/Trigger/Trigger_end
+    m_Weight: 1
+  - m_Path: Pivot/Camera
+    m_Weight: 1
+  - m_Path: Pivot/Cube.015
+    m_Weight: 1
+  - m_Path: Pivot/rig
+    m_Weight: 1
+  - m_Path: Pivot/rig/root
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-Mag
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-Mag/ORG-Mag_end
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:LeftUpLeg
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:LeftUpLeg/ORG-mixamorig:LeftLeg
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:LeftUpLeg/ORG-mixamorig:LeftLeg/ORG-mixamorig:LeftFoot
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:LeftUpLeg/ORG-mixamorig:LeftLeg/ORG-mixamorig:LeftFoot/ORG-mixamorig:LeftToeBase
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:LeftUpLeg/ORG-mixamorig:LeftLeg/ORG-mixamorig:LeftFoot/ORG-mixamorig:LeftToeBase/ORG-mixamorig:LeftToe_End
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:LeftUpLeg/ORG-mixamorig:LeftLeg/ORG-mixamorig:LeftFoot/ORG-mixamorig:LeftToeBase/ORG-mixamorig:LeftToe_End/ORG-mixamorig:LeftToe_End_end
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:RightUpLeg
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:RightUpLeg/ORG-mixamorig:RightLeg
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:RightUpLeg/ORG-mixamorig:RightLeg/ORG-mixamorig:RightFoot
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:RightUpLeg/ORG-mixamorig:RightLeg/ORG-mixamorig:RightFoot/ORG-mixamorig:RightToeBase
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:RightUpLeg/ORG-mixamorig:RightLeg/ORG-mixamorig:RightFoot/ORG-mixamorig:RightToeBase/ORG-mixamorig:RightToe_End
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:RightUpLeg/ORG-mixamorig:RightLeg/ORG-mixamorig:RightFoot/ORG-mixamorig:RightToeBase/ORG-mixamorig:RightToe_End/ORG-mixamorig:RightToe_End_end
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1/ORG-mixamorig:Spine2
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1/ORG-mixamorig:Spine2/ORG-mixamorig:LeftShoulder
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1/ORG-mixamorig:Spine2/ORG-mixamorig:LeftShoulder/ORG-mixamorig:LeftArm
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1/ORG-mixamorig:Spine2/ORG-mixamorig:LeftShoulder/ORG-mixamorig:LeftArm/ORG-mixamorig:LeftForeArm
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1/ORG-mixamorig:Spine2/ORG-mixamorig:LeftShoulder/ORG-mixamorig:LeftArm/ORG-mixamorig:LeftForeArm/ORG-mixamorig:LeftHand
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1/ORG-mixamorig:Spine2/ORG-mixamorig:LeftShoulder/ORG-mixamorig:LeftArm/ORG-mixamorig:LeftForeArm/ORG-mixamorig:LeftHand/ORG-mixamorig:LeftHand_end
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1/ORG-mixamorig:Spine2/ORG-mixamorig:Neck
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1/ORG-mixamorig:Spine2/ORG-mixamorig:Neck/ORG-mixamorig:Head
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1/ORG-mixamorig:Spine2/ORG-mixamorig:Neck/ORG-mixamorig:Head/ORG-mixamorig:HeadTop_End
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1/ORG-mixamorig:Spine2/ORG-mixamorig:Neck/ORG-mixamorig:Head/ORG-mixamorig:HeadTop_End/ORG-mixamorig:HeadTop_End_end
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1/ORG-mixamorig:Spine2/ORG-mixamorig:RightShoulder
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1/ORG-mixamorig:Spine2/ORG-mixamorig:RightShoulder/ORG-mixamorig:RightArm
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1/ORG-mixamorig:Spine2/ORG-mixamorig:RightShoulder/ORG-mixamorig:RightArm/ORG-mixamorig:RightForeArm
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1/ORG-mixamorig:Spine2/ORG-mixamorig:RightShoulder/ORG-mixamorig:RightArm/ORG-mixamorig:RightForeArm/ORG-mixamorig:RightHand
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-mixamorig:Hips/ORG-mixamorig:Spine/ORG-mixamorig:Spine1/ORG-mixamorig:Spine2/ORG-mixamorig:RightShoulder/ORG-mixamorig:RightArm/ORG-mixamorig:RightForeArm/ORG-mixamorig:RightHand/ORG-mixamorig:RightHand_end
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-Weapon
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-Weapon/ORG-Bolt
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-Weapon/ORG-Bolt/ORG-Bolt_end
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-Weapon/ORG-Grip
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-Weapon/ORG-Grip/ORG-Grip_end
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-Weapon/ORG-Handle
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-Weapon/ORG-Handle/ORG-Handle_end
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-Weapon/ORG-Stock
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-Weapon/ORG-Stock/ORG-Stock_end
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-Weapon/ORG-Trigger
+    m_Weight: 1
+  - m_Path: Pivot/rig/root/ORG-Weapon/ORG-Trigger/ORG-Trigger_end
+    m_Weight: 1

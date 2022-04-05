@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cb2c13b1e19dbb45bdc6791d6839f9a, type: 3}
+  m_Name: Ak-47
+  m_EditorClassIdentifier: 
+  name: Ak-47
+  damage: 20
+  maxDistance: 220
+  fireRate: 600
+  automatic: 1
+  magSize: 31
+  reloadTime: 1.5
+  maxReserveAmmo: 279
+  ironAimInTime: 20
+  aimOutTime: 50
+  weaponFOV: 90
+  aimWeaponFOV: 45
+  aimFOV: 30
+  animator: {fileID: 0}
+  recoilX: -1
+  recoilY: 200
+  snappiness: 10
+  returnSpeed: 2
+  recoilCounterSpeed: 10
